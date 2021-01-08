@@ -37,7 +37,7 @@
 - [Berners-Lee](https://macmowl.github.io/website-berners-lee-sass/)
 - [London Musuem website](https://macmowl.github.io/museum-project/index.html)
 - [Codepen stuff](https://codepen.io/macmowl-the-flexboxer)
-- [functional forum](https://bbs-queen.neant.be)
+- [Forum built in PHP](https://bbs-queen.neant.be)
 
 <br />
 ---
