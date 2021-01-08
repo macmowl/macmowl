@@ -35,7 +35,7 @@
 - [My CV](https://macmowl.github.io/My-CV/)
 - [Vcard](https://macmowl.github.io/alan-vcard/)
 - [Berners-Lee](https://macmowl.github.io/website-berners-lee-sass/)
-- [London Musuem website](https://macmowl.github.io/museum-project/index.html)
+- [London Museum website](https://macmowl.github.io/museum-project/index.html)
 - [Codepen stuff](https://codepen.io/macmowl-the-flexboxer)
 - [Forum built in PHP](https://bbs-queen.neant.be)
 
