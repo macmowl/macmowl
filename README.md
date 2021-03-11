@@ -4,8 +4,8 @@
 
 
 ## I'm a UI/UX designer and a web dev student
-- 🔭 I’m currently working on a WordPress project
-- 🌱 I’m currently learning PHP and WordPress
+- 🔭 I’m currently working on a MERN project
+- 🌱 I’m currently learning React, NodeJS and NextJS
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/him
 
