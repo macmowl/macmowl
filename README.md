@@ -3,7 +3,7 @@
  <img align="right" alt="Illustration" src="https://github.com/macmowl/macmowl/blob/main/illu.png" width="500" height="320" />
 
 
-## I'm a UI/UX designer and a web dev student
+## I'm a UI/UX designer and a junior fullstack dev
 - 🔭 I’m currently working on a Laravel project
 - 🌱 I’m currently learning Laravel, PHP, React
 - 💬 Ask me about ... Anything
