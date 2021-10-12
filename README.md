@@ -32,9 +32,10 @@
 <br />
 
 ### Some of my projects
-- [My CV](https://macmowl.github.io/My-CV/)
 - [Vcard](https://macmowl.github.io/alan-vcard/)
+- [Pomodoro in React](https://github.com/macmowl/react-pomodoro)
 - [Berners-Lee](https://macmowl.github.io/website-berners-lee-sass/)
+- [Mwenbwa : Reactjs game](https://github.com/macmowl/mwenbwa)
 - [London Museum website](https://macmowl.github.io/museum-project/index.html)
 - [Codepen stuff](https://codepen.io/macmowl-the-flexboxer)
 - [Forum built in PHP](https://bbs-queen.neant.be)
