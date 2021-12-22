@@ -4,7 +4,7 @@
 
 
 ## I'm a UI/UX designer and a junior fullstack dev
-- 🔭 I’m currently working on a Laravel project
+- 🔭 I’m currently working on a nextJS project
 - 🌱 I’m currently learning Laravel, PHP, React
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/him
