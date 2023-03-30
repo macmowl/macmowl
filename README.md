@@ -4,7 +4,7 @@
 
 
 ## I'm a fullstack Designer
-### From Idea to production, I will help to success!
+### From Idea to production, I will help you to succeed!
 - 🔭 I’m currently working on a React Project
 - 🌱 I’m currently learning T3 stack
 - 💬 Ask me about ... Anything
