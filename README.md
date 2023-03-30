@@ -3,7 +3,8 @@
  <img align="right" alt="Illustration" src="https://github.com/macmowl/macmowl/blob/main/illu.png" width="500" height="320" />
 
 
-## I'm a UI/UX designer and a junior fullstack dev
+## I'm a fullstack Designer
+### From Idea to production, I will help to success!
 - 🔭 I’m currently working on a React Project
 - 🌱 I’m currently learning T3 stack
 - 💬 Ask me about ... Anything
